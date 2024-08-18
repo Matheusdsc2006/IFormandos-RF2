@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+body{
+    height: 900px;
+}
+
 header{
     position: fixed;
     top: 0;
@@ -43,7 +47,7 @@ form{
     padding: var(--padding);
     border-radius: 28px;
     transition: background 0.25s;
-    margin-top: 25px;
+    margin-top: 100px;
     box-shadow: 0px 2px 2px 0px lightgray;
 }
 
