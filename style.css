@@ -4,6 +4,8 @@
 }
 
 header{
+    position: fixed;
+    top: 0;
     background-color: rgba(57, 122, 60, 1);
     width: 100%;
     display: flex;
